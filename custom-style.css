@@ -35,3 +35,8 @@ hr{
   margin-bottom: 2rem!important;
   margin-top: 2rem!important;
 }
+
+.portal__header {
+  padding-bottom: 5rem!important;
+  padding-top: 3rem!important;
+}
